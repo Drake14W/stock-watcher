@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/stock_watcher/__main__.py
+src/stock_watcher.egg-info/PKG-INFO
+src/stock_watcher.egg-info/SOURCES.txt
+src/stock_watcher.egg-info/dependency_links.txt
+src/stock_watcher.egg-info/entry_points.txt
+src/stock_watcher.egg-info/requires.txt
+src/stock_watcher.egg-info/top_level.txt
