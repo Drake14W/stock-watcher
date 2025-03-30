@@ -1,3 +1,4 @@
+### stock-watcher
 Deliver live data for your portfolio in your terminal
 
 ## Build
