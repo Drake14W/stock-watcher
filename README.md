@@ -4,7 +4,7 @@ Deliver live data for your portfolio in your terminal
 ## Build
 Install using pip:
 ```
-pip install stock_watcher
+pip install stock_watch
 ```
 
 ## Usage
