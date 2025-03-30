@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "stock_watcher"
 version = "0.1"
 authors = [
-  { name="Drake Wiggins", email="drake_wiggins@outlook.com" },
+  { name="Drake Wiggins", email="drakewiggins2@gmail.com" },
 ]
 license = "MIT"
 description = "Deliver live data for your portfolio in your terminal"
